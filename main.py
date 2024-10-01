@@ -1,1 +1,1 @@
-print("hello world, it is bad day")
+print("have i figured out how to do this shit?")

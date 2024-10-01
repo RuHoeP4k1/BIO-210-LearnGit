@@ -1,1 +1,1 @@
-print("hello world, it is a beautifull day")
+print("hello world, it is bad day")
